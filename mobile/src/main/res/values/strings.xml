@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartPlayer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="no_music">No music found</string>
+    <string name="menu_shuffle">Shuffle</string>
+    <string name="menu_end">End</string>
+</resources>
